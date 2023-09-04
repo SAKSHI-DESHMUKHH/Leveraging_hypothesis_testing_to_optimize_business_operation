@@ -1,0 +1,17 @@
+chocolate_preferences.csv
+Data recorded from a survey where customers were asked which chocolate they prefered.
+
+chocolate_production.csv
+Monthly Chocolate production of shifts A, B, and C.
+
+chocolate_satisfaction.csv
+The monthly chocolate sales and customer satisfaction were recorded for regions A, B and C during a year
+
+chocolate_sweetness.csv
+Two batches of 30 chocolates with different sweetners - regular sugar vs substitute sugar - were assessed for their sweetness level
+
+chocolate_thickness.csv
+The chocolate thickness were recorded for the same machine before and after process improvements.
+
+chocolate_weight.csv
+A regular quality control checking for the chocolate weight from a random machine.
